@@ -106,7 +106,7 @@ http://127.0.0.1:8000/docs
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/LMS_Project.git
+git clone https://github.com/shivam-9s/LMS_Project.git
 
 cd LMS_Project
 ```
